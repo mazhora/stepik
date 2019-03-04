@@ -3,7 +3,4 @@
 
 void helloMessage(const char* name);
 
-
-void getValue
-
 #endif
